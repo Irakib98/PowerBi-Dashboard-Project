@@ -18,7 +18,7 @@ Cleaned, shaped, and prepared the raw data for analysis by handling blanks, chan
 - **📊 Core Charts:**
  Utilized Column, Bar, Line, and Area Charts to compare job counts and track trends over time.
 - **🗺️ Geospatial Analysis:** Leveraged Map Charts to visualize the global distribution of jobs.
-- **🔢 KPI Indicators & Tables:** Used Cards to display key metrics and Tables to provide granular, sortable data.
+- **🔢 KI Indicators & Tables:** Used Cards to display key metrics and Tables to provide granular, sortable data.
 - **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
 - **🖱️ Interactive Reporting:**
    - **Slicers:**
